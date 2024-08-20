@@ -21,8 +21,6 @@ To get started with the Personal Finance Manager, follow these steps:
     git clone https://github.com/your-username/personal-finance-manager.git
     cd personal-finance-manager
 
-
-
 2. **Install Dependencies**:
    ```bash
     "pip install pandas xlsxwriter scikit-learn"
