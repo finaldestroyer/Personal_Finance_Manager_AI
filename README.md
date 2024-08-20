@@ -31,13 +31,13 @@ To get started with the Personal Finance Manager, follow these steps:
     In terminal run "python finance_manager.py"
 
 2. **Interaction with the Menu**:
-    Interaction with the Menu:
-        1: Manage Income
-        2: Manage Expenses
-        3: Manage Budget
-        4: Track Savings
-        5: Generate Reports
-        6: Exit
+    - **1: Manage Income**;
+    - **2: Manage Expenses**;
+    - **3: Manage Budget**;
+    - **4: Track Savings**;
+    - **5: Generate Reports**;
+    - **6: Exit**;
+
 
 3. **Export to Excel**:
     To generate a report, select the "Generate Reports" option. The data will be exported to personal_finance_report.xlsx.
