@@ -54,11 +54,11 @@ To get started with the Personal Finance Manager, follow these steps:
 
 ### Data Storage
 
-The application uses JSON files to store financial data:
-    income.json for income data.
-    expenses.json for expense data.
-    budget.json for budget data.
-    savings.json for savings data.
+**The application uses JSON files to store financial data**:
+    - income.json for income data.
+    - expenses.json for expense data.
+    - budget.json for budget data.
+    - savings.json for savings data.
     These files are cleared after exporting the data to Excel.
 
 ### Example:
