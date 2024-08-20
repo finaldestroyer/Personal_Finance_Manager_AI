@@ -42,7 +42,7 @@ To get started with the Personal Finance Manager, follow these steps:
 3. **Export to Excel**:
     To generate a report, select the "Generate Reports" option. The data will be exported to personal_finance_report.xlsx.
 
-#### File Structure
+### File Structure
     data/:                              ####Contains JSON files for income, expenses, budget, and savings data.
     income.py:                          ###Manages income records.
     expenses.py:                        ###Manages expense records.
@@ -52,7 +52,7 @@ To get started with the Personal Finance Manager, follow these steps:
     export.py:                          ###Handles exporting data to Excel.
     finance_manager.py:                 ###The main entry point for the application.
 
-#### Data Storage
+### Data Storage
 
 The application uses JSON files to store financial data:
     income.json for income data.
@@ -61,7 +61,7 @@ The application uses JSON files to store financial data:
     savings.json for savings data.
     These files are cleared after exporting the data to Excel.
 
-#### Example:
+### Example:
 
 **Adding Income**
     Choose "Manage Income" from the main menu.
