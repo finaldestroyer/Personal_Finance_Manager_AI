@@ -19,7 +19,7 @@ To get started with the Personal Finance Manager, follow these steps:
 1. **Clone the Repository**:
    ```bash
     git clone https://github.com/finaldestroyer/Personal_Finance_Manager_AI.git
-    cd personal-finance-manager
+    cd Personal_Finance_Manager_AI
 
 > [!IMPORTANT]
 >2. **Install Dependencies**:
