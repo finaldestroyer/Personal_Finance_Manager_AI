@@ -62,14 +62,15 @@ To get started with the Personal Finance Manager, follow these steps:
 - savings.json for savings data.
 These files are cleared after exporting the data to Excel.
 
-### Example:
+> [!TIP]
+>### Example:
 
-**Adding Income**
-    Choose "Manage Income" from the main menu.
-    Enter the source of the income and the amount.
-    View the updated income report.
+>**Adding Income**
+>    Choose "Manage Income" from the main menu.
+>    Enter the source of the income and the amount.
+>    View the updated income report.
 
-**Predicting Savings Goal Achievement**
-    Set a savings goal under "Track Savings."
-    Add amounts to your savings regularly.
-    Use "Predict Time to Goal" to estimate when you'll reach your savings goal.
+>**Predicting Savings Goal Achievement**
+>    Set a savings goal under "Track Savings."
+>    Add amounts to your savings regularly.
+>    Use "Predict Time to Goal" to estimate when you'll reach your savings goal.
