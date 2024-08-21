@@ -64,6 +64,7 @@ These files are cleared after exporting the data to Excel.
 
 
 ### Example:
+
 **Adding Income**
     Choose "Manage Income" from the main menu.
     Enter the source of the income and the amount.
