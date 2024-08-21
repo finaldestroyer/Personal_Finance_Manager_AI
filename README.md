@@ -14,16 +14,17 @@ The Personal Finance Manager is a command-line tool designed to help users manag
 
 To get started with the Personal Finance Manager, follow these steps:
 
-### Installation
+> [!IMPORTANT]
+>### Installation
 
-1. **Clone the Repository**:
-   ```bash
-    git clone https://github.com/finaldestroyer/personal-finance-manager.git
-    cd personal-finance-manager
+>1. **Clone the Repository**:
+>   ```bash
+>    git clone https://github.com/finaldestroyer/personal-finance-manager.git
+>    cd personal-finance-manager
 
-2. **Install Dependencies**:
-   ```bash
-    "pip install pandas xlsxwriter scikit-learn"
+>2. **Install Dependencies**:
+>   ```bash
+>    "pip install pandas xlsxwriter scikit-learn"
 
 ### Usage
 
