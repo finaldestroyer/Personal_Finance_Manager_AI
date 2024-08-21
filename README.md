@@ -44,14 +44,14 @@ To get started with the Personal Finance Manager, follow these steps:
     To generate a report, select the "Generate Reports" option. The data will be exported to personal_finance_report.xlsx.
 
 ### File Structure
-    data/:                              '''Contains JSON files for income, expenses, budget, and savings data.'''
-    income.py:                          '''Manages income records.'''
-    expenses.py:                        '''Manages expense records.'''
-    budget.py:                          '''Manages budget records.'''
-    savings.py:                         '''Manages savings records.'''
-    reports.py:                         '''Contains functions for generating reports.'''
-    export.py:                          '''Handles exporting data to Excel.'''
-    finance_manager.py:                 '''The main entry point for the application.'''
+    data/:                              Contains JSON files for income, expenses, budget, and savings data.
+    income.py:                          Manages income records.
+    expenses.py:                        Manages expense records.
+    budget.py:                          Manages budget records.
+    savings.py:                         Manages savings records.
+    reports.py:                         Contains functions for generating reports.
+    export.py:                          Handles exporting data to Excel.
+    finance_manager.py:                 The main entry point for the application.
 
 ### Data Storage
 
