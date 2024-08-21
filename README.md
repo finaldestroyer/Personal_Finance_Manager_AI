@@ -1,6 +1,6 @@
 # Personal Finance Manager
 
-The Personal Finance Manager is a command-line tool designed to help users manage their personal finances effectively. This tool allows users to track their income, expenses, budget, and savings, with an added feature for predicting the time required to achieve a specified savings goal. Additionally, the tool provides the capability to export financial data into an Excel file for further analysis.
+The Personal Finance Manager is a command-line tool, written in Python, designed to help users manage their personal finances effectively. This tool allows users to track their income, expenses, budget, and savings, with an added feature for predicting the time required to achieve a specified savings goal. Additionally, the tool provides the capability to export financial data into an Excel file for further analysis.
 
 ## Features
 
