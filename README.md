@@ -68,6 +68,7 @@ These files are cleared after exporting the data to Excel.
 >    Choose "Manage Income" from the main menu.
 >    Enter the source of the income and the amount.
 >    View the updated income report.
+>\n
 >**Predicting Savings Goal Achievement**
 >    Set a savings goal under "Track Savings."
 >    Add amounts to your savings regularly.
